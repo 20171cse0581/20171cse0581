@@ -13,10 +13,12 @@ void main()
     case 'T': printf("tamil and telugu performance\n");
               break;
     case 'e':
-    case 'E': printf("english and hindi performance\n");
+    case 'E': printf("english and hindi and urdu performance\n");
               break;
     case 'm':
-    case 'M': printf("malyalam performance\n");
+
+    case 'M': printf("coorgiperformance\n");
+
               break;
     default : printf("mashup of all languages\n");
    }
