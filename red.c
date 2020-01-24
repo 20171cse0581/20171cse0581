@@ -7,7 +7,7 @@ void main()
   switch(type)
   {
     case 'k':
-    case 'K': printf("kannada performance\n");
+    case 'K': printf("sanskrit performance\n");
               break;
     case 't': 
     case 'T': printf("tamil and telugu performance\n");
