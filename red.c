@@ -16,7 +16,7 @@ void main()
     case 'E': printf("english and hindi and urdu performance\n");
               break;
     case 'm':
-    case 'M': printf("coorgi performance\n");
+    case 'M': printf("malyalam performance\n");
               break;
     default : printf("mashup of all languages\n");
    }
