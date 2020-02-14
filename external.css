@@ -1,0 +1,16 @@
+body{
+background:url(/home/student/Pictures/a.jpg);
+background-size:80%;
+}
+h1{
+color:maroon;
+margin-left:40px;
+text-align:center;
+}
+p{
+text-align:center;
+font-weight:bold;
+font-family:Times New Roman;
+font-size:20px;
+
+}
