@@ -1,0 +1,27 @@
+<html>
+      <head><title>color,textdirection,space between two characters,space between words,set index indient </title>
+      <style>
+      body{
+            color:red;
+            direction:rtl;
+            letter-spacing:15px;
+            word-spacing:15px;
+            text-indient:1cm;
+          }
+         </style>
+         </head>
+          <body>
+           <p>
+                     ROCKY BHAI
+the name is yash he is the number one actor in kannada industry</p>
+  </body>
+</html>
+<p>
+<p style="text-shadow:4px 4px 8px blue;">
+if your browser supports the css text-shadow property,this text will have a blue shadow.
+  
+         <img style="border:0px;"src=/home/student/Desktop/index.jpeg">
+  
+         <img style="border:3px dashed red;"src="/home/student/desktop/index.jpeg"/>
+<body>
+</html>

@@ -1,0 +1,16 @@
+<html>
+
+     <head><title>Font style and Font family</title></head>
+     <body>
+           <p style="font-style:italic;">
+                     ROCKY BHAI!
+           </p>
+           <p style =font-family:georgis,garamond,serif;">
+                       yash
+            </p>
+           <p style="font-size:20px;">the name is yash</p>
+           <p style="font size:small;">the name is yash</p>
+           </body>
+</html>
+ 
+
